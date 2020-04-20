@@ -1,0 +1,11 @@
+C:\Users\Mariah Curtis\PetCareScheduling\src\bin\Debug\netcoreapp3.1\[MariahCurtis].CodeLou.PetCareService.exe
+C:\Users\Mariah Curtis\PetCareScheduling\src\bin\Debug\netcoreapp3.1\[MariahCurtis].CodeLou.PetCareService.deps.json
+C:\Users\Mariah Curtis\PetCareScheduling\src\bin\Debug\netcoreapp3.1\[MariahCurtis].CodeLou.PetCareService.runtimeconfig.json
+C:\Users\Mariah Curtis\PetCareScheduling\src\bin\Debug\netcoreapp3.1\[MariahCurtis].CodeLou.PetCareService.runtimeconfig.dev.json
+C:\Users\Mariah Curtis\PetCareScheduling\src\bin\Debug\netcoreapp3.1\[MariahCurtis].CodeLou.PetCareService.dll
+C:\Users\Mariah Curtis\PetCareScheduling\src\bin\Debug\netcoreapp3.1\[MariahCurtis].CodeLou.PetCareService.pdb
+C:\Users\Mariah Curtis\PetCareScheduling\src\obj\Debug\netcoreapp3.1\[MariahCurtis].CodeLou.PetCareService.csprojAssemblyReference.cache
+C:\Users\Mariah Curtis\PetCareScheduling\src\obj\Debug\netcoreapp3.1\[MariahCurtis].CodeLou.PetCareService.AssemblyInfoInputs.cache
+C:\Users\Mariah Curtis\PetCareScheduling\src\obj\Debug\netcoreapp3.1\[MariahCurtis].CodeLou.PetCareService.AssemblyInfo.cs
+C:\Users\Mariah Curtis\PetCareScheduling\src\obj\Debug\netcoreapp3.1\[MariahCurtis].CodeLou.PetCareService.dll
+C:\Users\Mariah Curtis\PetCareScheduling\src\obj\Debug\netcoreapp3.1\[MariahCurtis].CodeLou.PetCareService.pdb
